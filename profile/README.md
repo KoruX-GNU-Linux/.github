@@ -14,7 +14,6 @@ include:
 - A set of development packages
 - KoruX-specific tests and tweaks
 - Built-in classic games such as Diablo 1, Diablo 2, Heroes 3, and Quake 1-2-3
-- etc.
 
 ## Installation
 
