@@ -34,7 +34,7 @@ include:
 
 ## Links
 
-...
+https://github.com/KoruX-GNU-Linux/KoruX
 
 ## Contribution
 
