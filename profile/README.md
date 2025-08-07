@@ -32,6 +32,11 @@ include:
 - KoruX is not officially affiliated with the Debian project
 - Most components are distributed under the GPL-3.0 license
 
+## Wiki
+
+- [ENGLISH](https://github.com/KoruX-GNU-Linux/KoruX/blob/master/README-EN.md)
+- [RUSSIAN](https://github.com/KoruX-GNU-Linux/KoruX/blob/master/README-RU.md)
+
 ## Links
 
 https://github.com/KoruX-GNU-Linux/KoruX
