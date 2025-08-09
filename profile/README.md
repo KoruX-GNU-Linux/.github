@@ -18,7 +18,10 @@ include:
 
 ## Installation
 
-...
+Either build the Live ISO using live-build (sudo make build) or download the
+latest Live ISO image from my cloud storage at
+https://disk.yandex.ru/d/wsX1HLhY_edkPg. Boot the Live environment and install
+KoruX via Calamares (desktop shortcut: "Install KoruX").
 
 ## System Requirements
 
