@@ -37,8 +37,7 @@ KoruX via Calamares (desktop shortcut: "Install KoruX").
 
 ## Wiki
 
-- [ENGLISH](https://github.com/KoruX-GNU-Linux/KoruX/blob/master/README-EN.md)
-- [RUSSIAN](https://github.com/KoruX-GNU-Linux/KoruX/blob/master/README-RU.md)
+https://github.com/KoruX-GNU-Linux/KoruX/wiki
 
 ## Links
 
