@@ -2,7 +2,7 @@
 
 KoruX is a home operating system based on Debian (Bookworm) for developers and
 entertainment. It includes a variety of development tools as well as classic
-games for fun.
+games.
 
 ## About the project
 
@@ -10,9 +10,12 @@ KoruX was created to provide a convenient and functional environment for
 developers, while also adding a fun element through classic games. Key features
 include:
 
-- Customized themes and fonts
 - A set of development packages
+- Live and installed system modes
 - KoruX-specific tests and tweaks
+- Themed GRUB bootloader (theme, background, font)
+- Calamares graphical installer with KoruX-specific settings
+- Preconfigured user environment (skel, themes, fonts, scripts)
 - Preconfigured minimalist XFCE desktop environment with LightDM
 - Built-in classic games such as Diablo 1, Diablo 2, Heroes 3, and Quake 1-2-3
 
