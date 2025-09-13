@@ -57,5 +57,6 @@ New contributors are welcome! Please submit bug reports, pull requests, or ideas
 
 ## About the author
 
-I am a Debian Maintainer (DM) and contributor to the Debian project. I created
-KoruX as a personal home operating system to suit my own needs and interests.
+I am a [Debian Maintainer (DM)](https://nm.debian.org/person/krekhov/) and
+contributor to the Debian project. I created KoruX as a personal home operating
+system to suit my own needs and interests.
