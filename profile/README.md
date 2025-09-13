@@ -6,9 +6,9 @@ of classic games.
 
 ## About the project
 
-KoruX was created to provide a convenient, minimalist environment for
-developers—no bloat, just the essentials—while adding a fun element through
-classic games. Key features include:
+KoruX was created to provide a convenient, minimalist environment for developers
+— no bloat, just the essentials — while adding a fun element through classic
+games. Key features include:
 
 - A set of development packages
 - Live and installed system modes
