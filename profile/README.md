@@ -17,10 +17,10 @@ games. Key features include:
 - Calamares graphical installer with KoruX-specific settings
 - Preconfigured user environment (skel, themes, fonts, scripts)
 - Preconfigured minimalist Xfce desktop environment with LightDM
-- Preinstalled engines and installers for classic games
-  (Diablo 1–2, Heroes 3, Quake 1–2–3) — game data installed via simple scripts
 - Minimal hardened defaults for Firefox, OpenSSL, PAM, sshd, sudoers, GRUB, and
   sysctl (ASLR)
+- Preinstalled engines and installers for classic games
+  (Diablo 1–2, Heroes 3, Quake 1–2–3) — game data installed via simple scripts
 
 ## Installation
 
