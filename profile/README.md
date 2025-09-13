@@ -1,14 +1,14 @@
 # KoruX
 
-KoruX is a home operating system based on Debian (Bookworm) for developers and
-entertainment. It includes a variety of development tools as well as classic
-games.
+KoruX is a home operating system based on Debian 12 (Bookworm) for developers
+and entertainment. It includes a variety of development tools as well as ports
+of classic games.
 
 ## About the project
 
-KoruX was created to provide a convenient and functional environment for
-developers, while also adding a fun element through classic games. Key features
-include:
+KoruX was created to provide a convenient, minimalist environment for
+developers—no bloat, just the essentials—while adding a fun element through
+classic games. Key features include:
 
 - A set of development packages
 - Live and installed system modes
@@ -16,15 +16,16 @@ include:
 - Themed GRUB bootloader (theme, background, font)
 - Calamares graphical installer with KoruX-specific settings
 - Preconfigured user environment (skel, themes, fonts, scripts)
-- Preconfigured minimalist XFCE desktop environment with LightDM
-- Built-in classic games such as Diablo 1, Diablo 2, Heroes 3, and Quake 1-2-3
+- Preconfigured minimalist Xfce desktop environment with LightDM
+- Preinstalled engines and installers for classic games
+  (Diablo 1–2, Heroes 3, Quake 1–2–3) — game data installed via simple scripts.
 
 ## Installation
 
-Either build the Live ISO using live-build (sudo make build) or download the
-latest Live ISO image from my cloud storage at
-https://disk.yandex.ru/d/LT6H7VKOi486UQ. Boot the Live environment and install
-KoruX via Calamares (desktop shortcut: "Install KoruX").
+Either build the Live ISO using live-build (sudo make build) or
+[download](https://disk.yandex.ru/d/LT6H7VKOi486UQ) the latest Live ISO image
+from my cloud storage. Boot the live environment and install KoruX via the
+Calamares installer (desktop shortcut: "Install KoruX").
 
 ## System Requirements
 
@@ -38,13 +39,13 @@ KoruX via Calamares (desktop shortcut: "Install KoruX").
 - KoruX is not officially affiliated with the Debian project
 - Most components are distributed under the GPL-3.0 license
 
+## Distribution
+
+https://github.com/KoruX-GNU-Linux/KoruX
+
 ## Wiki
 
 https://github.com/KoruX-GNU-Linux/KoruX/wiki
-
-## Links
-
-https://github.com/KoruX-GNU-Linux/KoruX
 
 ## Contribution
 
