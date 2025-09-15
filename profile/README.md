@@ -25,8 +25,8 @@ games. Key features include:
 ## Installation
 
 Either build the Live ISO using live-build (sudo make build) or
-[download](https://disk.yandex.ru/d/UCea7iAEbWX3Zg) the latest Live ISO image
-from my cloud storage. Boot the live environment and install KoruX via the
+[download](https://disk.yandex.ru/d/UCea7iAEbWX3Zg) the latest Live ISO (amd64)
+image from my cloud storage. Boot the live environment and install KoruX via the
 Calamares installer (desktop shortcut: "Install KoruX").
 
 ## System Requirements
@@ -61,4 +61,4 @@ New contributors are welcome! Please submit bug reports, pull requests, or ideas
 
 I am a [Debian Maintainer](https://nm.debian.org/person/krekhov/) and
 contributor to the Debian project. I created KoruX as a personal home operating
-system to suit my own needs and interests.
+system to suit my own needs and interests. It’s a hobby OS.
