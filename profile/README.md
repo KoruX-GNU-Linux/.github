@@ -1,8 +1,8 @@
 # KoruX
 
-KoruX is a home operating system based on Debian 12 (Bookworm) for developers
-and entertainment. It includes a variety of development tools as well as ports
-of classic games.
+KoruX is a minimalist home operating system based on Debian 12 (Bookworm) for
+developers. It includes a variety of development tools as well as ports of
+classic games.
 
 ## About the project
 
