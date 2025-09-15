@@ -1,7 +1,7 @@
 # KoruX
 
 KoruX is a minimalist home operating system based on Debian 12 (Bookworm) for
-developers. It includes a variety of development tools as well as ports of
+developers. It includes a variety of development tools and setup scripts for
 classic games.
 
 ## About the project
@@ -20,7 +20,7 @@ games. Key features include:
 - Minimal hardened defaults for Firefox, OpenSSL, PAM, sshd, sudoers, GRUB, and
   sysctl (ASLR)
 - Preinstalled engines and installers for classic games
-  (Diablo 1–2, Heroes 3, Quake 1–2–3) — game data installed via simple scripts
+  (Diablo 1–2, Heroes 3, Quake 1–2–3) — game data can be installed via simple scripts
 
 ## Installation
 
