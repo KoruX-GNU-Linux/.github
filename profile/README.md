@@ -25,7 +25,7 @@ through classic games. Key features include:
 ## Installation
 
 Either build the Live ISO using live-build (sudo make build) or
-[download](https://disk.yandex.ru/d/UCea7iAEbWX3Zg) the latest Live ISO (amd64)
+[download](https://disk.yandex.ru/d/zzW-Q1gO71rMCg) the latest Live ISO (amd64)
 image from my cloud storage. Boot the live environment and install KoruX via the
 Calamares installer (desktop shortcut: "Install KoruX").
 
