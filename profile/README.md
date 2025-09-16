@@ -13,7 +13,7 @@ through classic games. Key features include:
 - A set of development packages
 - Live and installed system modes
 - KoruX-specific tests and tweaks
-- Themed GRUB bootloader (theme, background, font)
+- Themed GRUB2 bootloader (theme, background, font)
 - Calamares graphical installer with KoruX-specific settings
 - Preconfigured user environment (skel, themes, fonts, scripts)
 - Preconfigured minimalist Xfce desktop environment with LightDM
