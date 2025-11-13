@@ -7,7 +7,7 @@ scripts for classic games.
 ## About the project
 
 KoruX was created to provide a convenient, minimalist environment for developers
-and maintainers — no bloat, just the essentials — while adding a fun element
+and maintainers - no bloat, just the essentials - while adding a fun element
 through classic games. Key features include:
 
 - A set of development packages
@@ -20,7 +20,7 @@ through classic games. Key features include:
 - Minimal hardened defaults for Firefox, OpenSSL, PAM, sshd, sudoers, GRUB, and
   sysctl (ASLR)
 - Preinstalled engines and installers for classic games
-  (Diablo 1–2, Heroes 3, Quake 1–2–3) — game data can be installed via simple scripts
+  (Diablo 1–2, Heroes 3, Quake 1–2–3) - game data can be installed via simple scripts
 
 ## Installation
 
