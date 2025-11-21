@@ -61,4 +61,4 @@ New contributors are welcome! Please submit bug reports, pull requests, or ideas
 
 I am a [Debian Maintainer](https://nm.debian.org/person/krekhov/) and
 contributor to the Debian project. I created KoruX as a personal home operating
-system to suit my own needs and interests. It’s a hobby OS.
+system to suit my own needs and interests. It’s a hobby OS made just for fun.
